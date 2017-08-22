@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiSLAM", "MultiSLAM\MultiSLAM.csproj", "{4C3A80C4-E0AB-44F7-ADFA-B42802EE49DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C3A80C4-E0AB-44F7-ADFA-B42802EE49DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3A80C4-E0AB-44F7-ADFA-B42802EE49DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3A80C4-E0AB-44F7-ADFA-B42802EE49DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3A80C4-E0AB-44F7-ADFA-B42802EE49DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92CF4E41-02D9-4C3C-9C45-8C6E6F92BE4E}
+	EndGlobalSection
+EndGlobal
